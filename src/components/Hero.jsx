@@ -95,7 +95,7 @@ const Hero = () => {
               className="flex flex-wrap gap-4 mb-8"
             >
               <a
-                href="https://drive.google.com/file/d/1IWcb0rVxcBVTCwR1g_GfI0PMhSYjZ11v/view?usp=sharing"
+                href="https://drive.google.com/file/d/1twAf_1rtGmh-A5Nu0jQYurEAD16SQeza/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-6 py-3 bg-primary-500 hover:bg-primary-600 text-white font-semibold rounded-lg transition-all duration-300 hover:shadow-lg hover:-translate-y-0.5"
