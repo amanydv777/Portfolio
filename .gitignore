@@ -46,3 +46,11 @@ coverage
 *.swo
 *~
 .cache
+
+# Documentation files (internal use only)
+DEPLOYMENT.md
+DEPLOYMENT_READY.md
+NETLIFY_DEPLOY.md
+PRODUCTION_READY.md
+PROJECT_SUMMARY.md
+deploy.sh
